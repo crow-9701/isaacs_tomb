@@ -1,0 +1,11 @@
+<entities anm2root="gfx/" version="5">
+    <!--<entity anm2path="g">-->
+
+    <!--</entity>-->
+
+
+    <entity name="Wrapper">
+        id="10.2.1" anm2path="C:\Users\mason\OneDrive\Desktop\isaacs_tomb\content\resources\010.002_wrapper.anm2" portrait="0"
+        collisionMass="100"
+    </entity>
+</entities>
