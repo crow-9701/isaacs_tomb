@@ -1,9 +1,9 @@
 <AnimatedActor>
-	<Info CreatedBy="crow9701_" CreatedOn="2026-10-22 5:04:07 PM" Version="103" Fps="30"/>
+	<Info CreatedBy="crow9701_" CreatedOn="2026-11-01 8:47:47 PM" Version="108" Fps="30"/>
 	<Content>
 		<Spritesheets>
-			<Spritesheet Path="..\..\..\..\..\..\..\..\Users\mason\OneDrive\Desktop\isaacs_tomb\content\resources\gfx\monsters\monster_01b_mummified_bodies1.png" Id="0"/>
-			<Spritesheet Path="..\..\..\..\..\..\..\..\Users\mason\OneDrive\Desktop\isaacs_tomb\content\resources\gfx\monsters\monster_01_mummified_gaper.png" Id="1"/>
+			<Spritesheet Path="monsters\monster_01b_mummified_bodies1.png" Id="0"/>
+			<Spritesheet Path="monsters\monster_01_mummified_gaper.png" Id="1"/>
 		</Spritesheets>
 		<Layers>
 			<Layer Name="body" Id="0" SpritesheetId="0"/>

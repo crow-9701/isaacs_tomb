@@ -1,6 +1,4 @@
 <?xml-model href="https://wofsauge.github.io/isaac-xml-validator/xsd/items.xsd"?>
-<!-- <items gfxroot="gfx/items/" version="1">
-    <passive name= "placeholder">
-
-    </passive>
-</items>-->
+<items gfxroot="gfx/items/" version="1">
+    <passive name="placeholder" id="0" gfx="Sprite-0000.png" description="------------------" quality="0"/>
+</items>
