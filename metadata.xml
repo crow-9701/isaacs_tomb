@@ -1,8 +1,7 @@
 <metadata>
-	<name>isaacs_tomb</name>
+	<name>Isaac's Tomb</name>
 	<directory>isaacs_tomb</directory>
-	<description/>
+	<description>Adds a scripted item to the Womb II Super Secret Room.</description>
 	<version>1.0</version>
 	<visibility/>
 </metadata>
-
